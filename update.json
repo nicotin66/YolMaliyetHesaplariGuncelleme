@@ -1,7 +1,6 @@
 {
-    "version": "4.0.1",
-    "latest_version": "4.0.1",
-    "url": "https://github.com/nicotin66/YolMaliyetHesaplariGuncelleme/releases/download/v4.0.1/YolMaliyetHesaplama.exe",
-    "download_url": "https://github.com/nicotin66/YolMaliyetHesaplariGuncelleme/releases/download/v4.0.1/YolMaliyetHesaplama.exe",
-    "release_notes": "Hata duzeltmeleri ve iyilestirmeler."
+    "version": "4.0.2",
+    "url": "https://github.com/nicotin66/YolMaliyetHesaplariGuncelleme/releases/download/v4.0.2/YolMaliyetHesaplama.exe",
+    "notes": "Hata duzeltmeleri ve iyilestirmeler.",
+    "mandatory": false
 }
