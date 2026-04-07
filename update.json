@@ -1,6 +1,6 @@
 {
-    "version": "4.0.5",
-    "url": "https://github.com/nicotin66/YolMaliyetHesaplariGuncelleme/releases/download/v4.0.5/YolMaliyetHesaplama.exe",
-    "notes": "Oto-Kurtarma araci dosya guvenligi artirildi",
+    "version": "4.0.6",
+    "url": "https://github.com/nicotin66/YolMaliyetHesaplariGuncelleme/releases/download/v4.0.6/YolMaliyetHesaplama.exe",
+    "notes": "Hata duzeltmeleri ve iyilestirmeler.",
     "mandatory": false
 }
