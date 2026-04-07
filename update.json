@@ -1,6 +1,6 @@
 {
-    "version": "4.0.4",
-    "url": "https://github.com/nicotin66/YolMaliyetHesaplariGuncelleme/releases/download/v4.0.4/YolMaliyetHesaplama.exe",
-    "notes": "ÖNEMLİ: Güncelleme sırasında donup kalan veya siyah ekran kapanan kullanıcılar; Lütfen klasörünüze gelen 'update_temp.exe' dosyasına BİR KERE ÇİFT TIKLAYIN. Program geri kalanını kendisi düzeltecektir.",
+    "version": "4.0.5",
+    "url": "https://github.com/nicotin66/YolMaliyetHesaplariGuncelleme/releases/download/v4.0.5/YolMaliyetHesaplama.exe",
+    "notes": "Oto-Kurtarma araci dosya guvenligi artirildi",
     "mandatory": false
 }
