@@ -1,6 +1,6 @@
 {
-    "version": "4.1.4",
-    "url": "https://github.com/nicotin66/YolMaliyetHesaplariGuncelleme/releases/download/v4.1.4/YolMaliyet_Setup.exe",
-    "notes": "Hata duzeltmeleri ve iyilestirmeler.",
+    "version": "4.1.5",
+    "url": "https://github.com/nicotin66/YolMaliyetHesaplariGuncelleme/releases/download/v4.1.5/YolMaliyet_Setup.exe",
+    "notes": "Tupras ve GitHub gercek fiyat degisim kronolojisi entegre edildi. Aylik, 6 aylik ve yillik grafik analizi eklendi.",
     "mandatory": false
 }
