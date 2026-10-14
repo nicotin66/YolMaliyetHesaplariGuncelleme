@@ -1,6 +1,6 @@
 {
-    "version": "4.1.11",
-    "url": "https://github.com/nicotin66/YolMaliyetHesaplariGuncelleme/releases/download/v4.1.11/YolMaliyet_Setup.exe",
-    "notes": "Hata duzeltmeleri ve yeni ozellikler.",
+    "version": "4.1.12",
+    "url": "https://github.com/nicotin66/YolMaliyetHesaplariGuncelleme/releases/download/v4.1.12/YolMaliyet_Setup.exe",
+    "notes": "Kritik guncelleme optimizasyonu ve DLL yukleme hatasi giderildi.",
     "mandatory": false
 }
