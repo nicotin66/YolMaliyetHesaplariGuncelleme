@@ -1,6 +1,6 @@
 {
-    "version": "4.1.10",
-    "url": "https://github.com/nicotin66/YolMaliyetHesaplariGuncelleme/releases/download/v4.1.10/YolMaliyet_Setup.exe",
-    "notes": "hata giderildi",
+    "version": "4.1.11",
+    "url": "https://github.com/nicotin66/YolMaliyetHesaplariGuncelleme/releases/download/v4.1.11/YolMaliyet_Setup.exe",
+    "notes": "Hata duzeltmeleri ve yeni ozellikler.",
     "mandatory": false
 }
